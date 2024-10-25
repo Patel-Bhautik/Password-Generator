@@ -14,7 +14,7 @@ Getting Started
 
 * Clone the repository:
 1. Copy code
-	git clone https://github.com/yourusername/Password-Generator.git
+	git clone https://github.com/Patel-Bhautik/Password-Generator.git
 2. Open index.html to run the application in a browser.
 
 Contributions
