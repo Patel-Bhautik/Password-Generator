@@ -22,3 +22,6 @@ Contributions
 Contributions are welcome! If you have ideas for additional features or optimizations, feel free to submit a pull request or open an issue.
 
 Check this project :- https://patel-bhautik.github.io/Password-Generator/
+
+License
+* This project is licensed under the MIT License - see the [LICENSE](https://github.com/Patel-Bhautik/Password-Generator#MIT-1-ov-file) file for details.
